@@ -2,6 +2,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lostchild)](https://solved.ac/lostchild)
    
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 <!--
 **GLLSLP/GLLSLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
