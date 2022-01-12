@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lostchild)](https://solved.ac/lostchild)
-   
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lostchild)](https://solved.ac/lostchild)   
+[![SHDORI's github stats](https://github-readme-stats.vercel.app/api?username=GLLSLP)](https://github.com/anuraghazra/github-readme-stats)   
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 <!--
