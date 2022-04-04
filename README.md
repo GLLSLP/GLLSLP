@@ -1,6 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## 안녕하세요 개발하는 곰 박소현입니다
-
-
 
 ![](https://user-images.githubusercontent.com/37437483/161496473-842d497f-9410-4931-9126-d93b71e0f632.png)
 
@@ -12,7 +12,6 @@
 
 ### My Tech Stack
 
-<img src="https://img.shields.io/badge/#512BD4?style=flat-square&logo=Blazor&logoColor=white"/></a>&nbsp 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
