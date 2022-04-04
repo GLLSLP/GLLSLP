@@ -9,7 +9,7 @@
 
 #### ✨ Blog & Note
 [![Gatsby Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=gatsby&logoColor=white&link=https://www.gomdol-ooh-ah.com/)](https://www.gomdol-ooh-ah.com/)
-//[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)](https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)
+//[![Naver Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/evanmacmillan)](https://blog.naver.com/evanmacmillan)
 
 #### ✨ Dev log
 [![GLLSLP's github stats](https://github-readme-stats.vercel.app/api?username=GLLSLP&count_private=true&custom_title=GLLSLP's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
