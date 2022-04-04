@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=개발하는%20곰돌이&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=brown&height=300&section=header&text=개발하는%20곰돌이&fontSize=50)
 
 # 
 
