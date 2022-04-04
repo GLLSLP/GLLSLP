@@ -12,5 +12,5 @@
 //[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)](https://www.notion.so/Bio-105b3e3de6de49f0babd3c9e4f3e3c75)
 
 #### ✨ Dev log
-[![GLLSLP's github stats](https://github-readme-stats.vercel.app/api?username=GLLSLP&count_private=true&custom_title=Mumani's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/GLLSLP/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLLSLP&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/GLLSLP/github-readme-stats)
+[![GLLSLP's github stats](https://github-readme-stats.vercel.app/api?username=GLLSLP&count_private=true&custom_title=GLLSLP's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/GLLSLP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLLSLP&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
