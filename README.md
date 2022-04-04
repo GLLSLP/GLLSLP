@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=개발하는%20곰돌이&fontSize=90)
 
-## 안녕하세요 개발하는 곰 박소현입니다
+# 
 
 ![](https://user-images.githubusercontent.com/37437483/161496473-842d497f-9410-4931-9126-d93b71e0f632.png)
 
