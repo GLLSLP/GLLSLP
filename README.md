@@ -2,7 +2,7 @@
 
 ---
 
-![](.\Images\gomdolicon.png)
+![](https://user-images.githubusercontent.com/37437483/161496473-842d497f-9410-4931-9126-d93b71e0f632.png)
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
