@@ -27,7 +27,6 @@
 ![Vuetify](http://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=ffffff)
 ![Blazor](http://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=ffffff)
 ![Oculus](http://img.shields.io/badge/-Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=ffffff)
-![Eclipse IDE](http://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=ffffff)
 ![Unity](http://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=ffffff)
 ![C#](http://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=ffffff)
 
