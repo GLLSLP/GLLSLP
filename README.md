@@ -28,7 +28,7 @@
 ![Blazor](http://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=Blazor&logoColor=ffffff)
 ![Oculus](http://img.shields.io/badge/-Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=ffffff)
 ![Unity](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff)
-![C Sharp](http://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=ffffff)
+![C Sharp](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C Sharp&logoColor=ffffff)
 
 #### ✨ Blog & Note
 
