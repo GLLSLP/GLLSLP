@@ -36,6 +36,5 @@
 [![Naver Badge](https://img.shields.io/badge/-Naver-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/evanmacmillan)](https://blog.naver.com/evanmacmillan)
 
 #### ✨ Dev log
-[![GLLSLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=GLLSLP)](https://github.com/anuraghazra/github-readme-stats)
 [![GLLSLP's github stats](https://github-readme-stats.vercel.app/api?username=GLLSLP&count_private=true&custom_title=GLLSLP's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLLSLP&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
