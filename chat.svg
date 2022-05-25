@@ -250,8 +250,8 @@
 
   <!-- Hi, I'm Doug -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="225" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm 개발하는 곰돌이 🐻</text>
+    <rect width="240" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm 개발하는 곰돌이 <tspan class="emoji">🐻</tspan></text>
   </g>
 
   <!-- typing 2 -->
@@ -326,7 +326,7 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      제 블로그 
+      개발 일지는 블로그 
       <a xlink:href="https://www.gomdol-ooh-ah.com/">개발하는 곰돌이</a>
       에 기록하고 있습니다.
     </text>
