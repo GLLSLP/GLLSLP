@@ -328,7 +328,7 @@
     <text x="15" y="27">
       개발 일지는 블로그 
       <a xlink:href="https://www.gomdol-ooh-ah.com">개발하는 곰돌이</a>
-      에 기록하고 있습니다.
+      에 기록하고 있습니다.📓
     </text>
   </g>
 
@@ -352,8 +352,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <rect width="235" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">읽어주셔서 감사합니다!💜</text>
   </g>
 
   <!-- typing 6 -->
@@ -377,7 +377,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="100" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">안녕! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">안녕! <tspan class="emoji">🧸</tspan></text>  
   </g>
 </svg>
 
