@@ -327,7 +327,7 @@
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       개발 일지는 블로그 
-      <a href="https://www.gomdol-ooh-ah.com">개발하는 곰돌이</a>🧸
+      <a xlink:href="https://www.gomdol-ooh-ah.com">개발하는 곰돌이</a>🧸
       에 올리고 있습니다.
     </text>
   </g>
