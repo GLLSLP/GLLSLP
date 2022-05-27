@@ -251,7 +251,7 @@
   <!-- Hi, I'm Doug -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="250" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm 개발하는 곰돌이 <tspan class="emoji">🐻</tspan></text>
+    <text x="15" y="27">Hi, I'm 개발하는 곰돌이 <tspan class="emoji">🐻</tspan>!</text>
   </g>
 
   <!-- typing 2 -->
@@ -275,8 +275,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in New York City where it's supposed to be</text>
-    <text x="15" y="50">73° F (23° C) and <tspan class="emoji">🌤</tspan> today.</text>
+    <text x="15" y="27">주 언어는 JAVA☕이고 현재 Vue.js와 Typescript로 </text>
+    <text x="15" y="50">웹 개발💻을 하고있습니다.</text>
   </g>
 
   <!-- typing 3 -->
@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a software tinkerer, a 14 year Microsoft MVP,</text>
-    <text x="15" y="50">and adventurer in technology.</text>
+    <text x="15" y="27">개발을 하면서 알게된 것💡들과 에러 해결과정 위주로 </text>
+    <text x="15" y="50">기록✍하고 있습니다.</text>
   </g>
 
   <!-- typing 4 -->
@@ -327,8 +327,8 @@
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       개발 일지는 블로그 
-      <a xlink:href="https://www.gomdol-ooh-ah.com">개발하는 곰돌이</a>
-      에 기록하고 있습니다.📓
+      <a href="https://www.gomdol-ooh-ah.com">개발하는 곰돌이</a>🧸
+      에 올리고 있습니다.
     </text>
   </g>
 
@@ -353,7 +353,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="235" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">읽어주셔서 감사합니다!💜</text>
+    <text x="15" y="27">읽어주셔서 감사합니다💜</text>
   </g>
 
   <!-- typing 6 -->
@@ -377,7 +377,7 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="100" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">안녕! <tspan class="emoji">🧸</tspan></text>  
+    <text x="15" y="27">안녕! <tspan class="emoji">🙋</tspan></text>  
   </g>
 </svg>
 
