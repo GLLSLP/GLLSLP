@@ -3,6 +3,7 @@
 ### I'm 박소현 (a.k.a. 개발하는 곰돌이) 🐻 -->
 ![](https://user-images.githubusercontent.com/37437483/161496473-842d497f-9410-4931-9126-d93b71e0f632.png) 
 ![](./chat.svg)
+![](https://github.com/GLLSLP/GLLSLP/chat.svg)
 
 #### ✨ Tech Stack
 
